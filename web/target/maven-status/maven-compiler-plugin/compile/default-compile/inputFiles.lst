@@ -1,0 +1,10 @@
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/WebMain.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/controller/GameController.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/AttributeNames.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/GameMappings.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/service/GameServiceImpl.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/config/WebConfig.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/ViewNames.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/util/thymeleaf/DecoupledLogicSetup.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/service/GameService.java
+/home/vanya/Workspace/IDEA-projects/learning-java-projects/guess-the-number-game/web/src/main/java/academy/learnprogramming/interceptor/RequestInterceptor.java
